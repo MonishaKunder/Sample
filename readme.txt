@@ -8,6 +8,7 @@ change 7
 change 10
 gughgh
 jkjkjk
+<<<<<<< HEAD
 
 
 my name is monisha
@@ -15,3 +16,5 @@ my name is monisha
 
 my name is sindhu
 
+=======
+>>>>>>> parent of c6d0a51... ss
